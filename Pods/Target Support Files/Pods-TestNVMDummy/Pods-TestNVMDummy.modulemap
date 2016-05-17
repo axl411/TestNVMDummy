@@ -1,0 +1,6 @@
+framework module Pods_TestNVMDummy {
+  umbrella header "Pods-TestNVMDummy-umbrella.h"
+
+  export *
+  module * { export * }
+}
